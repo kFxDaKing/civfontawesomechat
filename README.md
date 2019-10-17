@@ -11,6 +11,8 @@ You need to start the resources in this order
 # Dislaik says
 All you have to do is follow the instructions and add the folders "esx_rpchat" and "chat-theme-civlifechat" in your resources folder and enjoy!!
 
+The current player id is included in the chat, if you want to delete it, you just have to delete the variable "id" and its numbering in the template
+
 # Screenshot
 ![alt text](https://i.imgur.com/tkI23bS.png)
 
