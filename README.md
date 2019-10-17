@@ -9,7 +9,7 @@ You need to start the resources in this order
 - start chat-theme-civlifechat
 - start esx_rpchat
 # Dislaik says
-All you have to do is follow the instructions and add the files "esx_rpchat" and "chat-theme-civlifechat" in your resources folder and enjoy!!
+All you have to do is follow the instructions and add the folders "esx_rpchat" and "chat-theme-civlifechat" in your resources folder and enjoy!!
 
 # Screenshot
 ![alt text](https://i.imgur.com/tkI23bS.png)
