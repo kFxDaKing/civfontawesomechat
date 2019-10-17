@@ -5,9 +5,9 @@ You will need the most updated version of chat Located here https://github.com/c
 # Instructions
 You need to start the resources in this order
 
-·start chat
-·start chat-theme-civlifechat
-·start esx_rpchat
+•start chat
+•start chat-theme-civlifechat
+•start esx_rpchat
 # Dislaik says
 All you have to do is follow the instructions and add the files "esx_rpchat" and "chat-theme-civlifechat" in your resources folder and enjoy!!
 
