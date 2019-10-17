@@ -12,7 +12,7 @@ You need to start the resources in this order
 All you have to do is follow the instructions and add the files "esx_rpchat" and "chat-theme-civlifechat" in your resources folder and enjoy!!
 
 # Screenshot
-## Default Chat - Local OOC
+### Default Chat - Local OOC
 ![alt text](https://i.imgur.com/wKuSDv4.png)
 ![alt text](https://i.imgur.com/DGljaF5.png)
 ![alt text](https://i.imgur.com/mod5hyQ.png)
