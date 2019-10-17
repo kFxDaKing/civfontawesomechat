@@ -14,6 +14,8 @@ All you have to do is follow the instructions and add the files "esx_rpchat" and
 # Screenshot
 ### Default Chat - Local OOC
 ![alt text](https://i.imgur.com/wKuSDv4.png)
+
+### /ooc - Global OOC
 ![alt text](https://i.imgur.com/DGljaF5.png)
 ![alt text](https://i.imgur.com/mod5hyQ.png)
 ![alt text](https://i.imgur.com/ZqznDEo.png)
